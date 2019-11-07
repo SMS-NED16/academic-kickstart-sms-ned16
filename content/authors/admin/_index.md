@@ -45,9 +45,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/sms-ned16
- - icon: linkedin
+<!--  - icon: linkedin
    icon_pack: fa
-   link: https://www.linkedin.com/in/sms-ned16	
+   link: https://www.linkedin.com/in/sms-ned16	 -->
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
  - icon: cv
@@ -64,4 +64,4 @@ email: ""
 - Visitors -->
 ---
 
-I am a final year undergraduate from the department of Electrical Engineering at NEDUET, Karachi. I have an interdisciplinary skillset that spans power engineering, machine learning, and software development.
+I am a final year undergraduate from the department of Electrical Engineering at NEDUET, Karachi. I have an interdisciplinary skillset that spans power engineering, machine learning, and software development. 
